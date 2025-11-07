@@ -112,7 +112,7 @@
             &kp F1         &kp F2     &kp F3      &kp F4      &kp F5                                                                                         &kp F6      &kp F7      &kp F8      &kp F9      &kp F10
             &kp EQUAL      &kp N1     &kp N2      &kp N3      &kp N4      &kp N5                                                                     &kp N6  &kp N7      &kp N8      &kp N9      &kp N0      &kp BSLH
             &kp GRAVE      &kp Q      &kp W       &kp F       &kp P       &kp B                                                                      &kp J   &kp L       &kp U       &kp Y       &kp SEMI    &kp MINUS
-            &caps_word        &mt LGUI A &mt LALT R  &mt LSHFT S &mt LCTRL T &kp G                                                                      &kp M   &mt RCTRL N &mt RSHFT E &mt RALT I  &mt RGUI O  &kp SQT
+            &caps_word     &mt LGUI A &mt LALT R  &mt LSHFT S &mt LCTRL T &kp G                                                                      &kp M   &mt RCTRL N &mt RSHFT E &mt RALT I  &mt RGUI O  &kp SQT
             &kp GRAVE      &kp Z      &kp X       &kp C       &kp D       &kp V   &kp ESC      &kp UP      &kp DOWN   &kp LEFT  &kp RIGHT &kp ENTER  &kp K   &kp H       &kp COMMA   &kp DOT     &kp FSLH    &kp PG_UP
             &magic MAGIC 0 &kp HOME   &kp END     &kp LEFT    &kp RIGHT           &kp SPACE    &kp DEL     &kp LALT   &kp LCTRL &kp TAB   &kp BSPC           &kp UP      &kp DOWN    &kp LBKT    &kp RBKT    &kp PG_DN
             >;

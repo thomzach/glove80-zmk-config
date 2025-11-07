@@ -120,12 +120,12 @@
 
         num_layer {
             bindings = <
-            &none             &none               &none           &none           &none                                                                                                     &none    &none    &none    &none     &none
-            &none             &none               &none           &none           &none           &none                                                                           &none     &none    &none    &none    &none     &none
-            &none             &none               &none           &none           &none           &none                                                                           &none     &none    &none    &none    &none     &none
-            &none             &kp N1              &kp N2          &kp N3          &kp N4          &kp N5                                                                          &kp N6    &kp N7   &kp N8   &kp N9   &kp N0    &none
-            &none             &none               &none           &none           &none           &none        &none      &none      &none      &none      &none      &none       &none     &none    &none    &none    &none     &none
-            &none             &none               &none           &none           &none                        &none      &none      &none      &none      &none      &none                 &none    &none    &none    &none     &none
+            &none             &none               &none           &none           &none                                                                                                     &none    &none     &none                 &none                 &none
+            &none             &none               &none           &none           &none           &none                                                                           &none     &none    &none     &none                 &none                 &none
+            &none             &kp EXCL            &kp AT_SIGN     &kp HASH        &kp DOLLAR      &kp PERCENT                                                                     &kp CARET &kp AMPS &kp ASTRK &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS &none
+            &none             &kp N1              &kp N2          &kp N3          &kp N4          &kp N5                                                                          &kp N6    &kp N7   &kp N8    &kp N9                &kp N0                &none
+            &none             &none               &kp plus        &kp minus       &kp equal       &none        &none      &none      &none      &none      &none      &none       &none     &none    &none     &none                 &none                 &none
+            &none             &none               &none           &none           &none                        &none      &none      &none      &none      &none      &none                 &none    &none     &none                 &none                 &none
             >;
         };
 
